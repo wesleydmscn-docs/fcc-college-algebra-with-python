@@ -1,4 +1,4 @@
-## College Algebra with Python
+## [College Algebra with Python](https://www.freecodecamp.org/learn/college-algebra-with-python/)
 
 This course is designed as a one-semester college course.
 It consists of instructional videos, with Google Colaboratory notebooks to follow
